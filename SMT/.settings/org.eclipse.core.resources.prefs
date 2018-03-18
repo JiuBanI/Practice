@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/entity/Autograph.java=UTF-8
+encoding//src/entity/Collect.java=UTF-8
+encoding//src/entity/Comment.java=UTF-8
+encoding//src/entity/Face.java=UTF-8
+encoding//src/entity/Follow.java=UTF-8
+encoding//src/entity/Images.java=UTF-8
+encoding//src/entity/ImgHead.java=UTF-8
+encoding//src/entity/Kind.java=UTF-8
+encoding//src/entity/NickName.java=UTF-8
+encoding//src/entity/User.java=UTF-8
+encoding/<project>=GBK
